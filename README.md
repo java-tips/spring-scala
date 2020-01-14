@@ -7,9 +7,11 @@ Run the project: \
 ``
 ./gradlew clean 
 ``
+
 ``
 ./gradlew build 
 ``
+
 ``
 ./gradlew bootRun 
 ``
