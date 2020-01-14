@@ -6,6 +6,8 @@ And it's a simple example but shows how Scala looks like in Gradle projects. \
 Run the project: \
 ``
 ./gradlew clean 
+
 ./gradlew build 
+
 ./gradlew bootRun 
 ``
